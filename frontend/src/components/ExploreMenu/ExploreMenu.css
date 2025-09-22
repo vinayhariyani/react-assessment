@@ -36,7 +36,7 @@
 }
 
 .explore-menu-list-item img:hover {
-  transform: scale(1.3); /* zoom in slightly */
+  transform: scale(1.3);
   cursor: pointer;
 }
 
